@@ -1,0 +1,4 @@
+2026-05-30 20:00:11,683 INFO     __main__        info
+2026-05-30 20:00:11,683 WARNING  __main__        warning
+2026-05-30 20:00:11,683 ERROR    __main__        error
+2026-05-30 20:00:11,683 CRITICAL __main__        crit
