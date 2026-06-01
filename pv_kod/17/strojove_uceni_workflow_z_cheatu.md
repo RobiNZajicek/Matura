@@ -1,4 +1,4 @@
-# 17 - Strojové učení: Příprava dat, Chyby v datech a bias, Korelace a kauzalita
+	# 17 - Strojové učení: Příprava dat, Chyby v datech a bias, Korelace a kauzalita
 
 Zdroj kódu (nepoužívám žádný jiný kód):
 `C:\Users\Robin\Downloads\scikit.pdf` (DataCamp Scikit-Learn Cheat Sheet)
